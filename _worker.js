@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "amzar-vpn3";
+let APP_DOMAIN = "amzarserver.my.id";
 
 let prxIP = "";
 let cachedPrxList = [];
